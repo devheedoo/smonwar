@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/smonwar/static/css/main.b100e6da.chunk.css",
+    "main.js": "/smonwar/static/js/main.4c980d81.chunk.js",
+    "main.js.map": "/smonwar/static/js/main.4c980d81.chunk.js.map",
+    "runtime-main.js": "/smonwar/static/js/runtime-main.d94f7a9f.js",
+    "runtime-main.js.map": "/smonwar/static/js/runtime-main.d94f7a9f.js.map",
+    "static/js/2.4a3018c5.chunk.js": "/smonwar/static/js/2.4a3018c5.chunk.js",
+    "static/js/2.4a3018c5.chunk.js.map": "/smonwar/static/js/2.4a3018c5.chunk.js.map",
+    "index.html": "/smonwar/index.html",
+    "precache-manifest.f2b10d8cbcab6db88c07bbcc404a37c5.js": "/smonwar/precache-manifest.f2b10d8cbcab6db88c07bbcc404a37c5.js",
+    "service-worker.js": "/smonwar/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/smonwar/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/smonwar/static/media/logo.25bf045c.svg"
+  }
+}
