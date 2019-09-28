@@ -1,6 +1,7 @@
 {
   "name": "smonwar",
   "version": "0.1.0",
+  "private": true,
   "homepage": "https://devheedoo.github.io/smonwar",
   "dependencies": {
     "react": "^16.10.0",
